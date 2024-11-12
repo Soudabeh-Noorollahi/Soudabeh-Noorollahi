@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h3>Skills:</h3>
-<img src="https://skillicons.dev/icons?i=react,redux,js,css,tailwind,html,git,github,figma" />
+<img src="https://skillicons.dev/icons?i=react,redux,js,css,tailwind,html,git,github,figma&theme=light" />
 
 <!--
 **Soudabeh-Noorollahi/Soudabeh-Noorollahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
