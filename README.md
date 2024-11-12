@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 
 <h3>Skills:</h3>
 <img src="https://skillicons.dev/icons?i=react,redux,js,css,tailwind,html,git,github,figma&theme=light&perline=3" />
