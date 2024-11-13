@@ -1,7 +1,7 @@
-# 💫 About Me:
+## 💫 About Me:
 I am an experienced IT professional in computer engineering. <br>My expertise includes React, JavaScript, CSS3 and HTML5 .
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 <img src="https://skillicons.dev/icons?i=react,redux,js,css,tailwind,html,git,github,figma&theme=light&perline=3" />
 
 ## 🌐 Socials: 
@@ -18,9 +18,6 @@ I am an experienced IT professional in computer engineering. <br>My expertise in
 
 
 <!--
-
-
-
 **Soudabeh-Noorollahi/Soudabeh-Noorollahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
