@@ -1,5 +1,5 @@
 ### 💫 About Me:
-I am an experienced IT professional in Computer engineering. <br>My expertise includes React, Next, JavaScript, CSS3 and HTML5 .
+I am an experienced IT professional in Computer engineering. <br>My expertise includes React, Next, JavaScript,Tailwind, CSS3 and HTML5 .
 
 ### 💻 Tech Stack:
 <img src="https://skillicons.dev/icons?i=react,redux,js,css,tailwind,html,git,github,next,mongodb,postman,figma&theme=light&perline=4" />
